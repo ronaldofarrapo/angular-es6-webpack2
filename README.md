@@ -4,8 +4,8 @@ Exemplo de como configurar ambiente para desenvolvimento com Angular1.x ES6 e We
 
 ### Prerequisites
 
-NodeJs v6.10.1 +
-npm v4.2.0 +
+* NodeJs v6.10.1 +
+* npm v4.2.0 +
 
 ### Installing
 
