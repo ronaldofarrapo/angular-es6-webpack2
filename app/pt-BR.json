@@ -1,11 +1,11 @@
 {
     "titulo": "Exemplo de uso de es6 com angular 1.x e webpack 2",
+    "titulo.formulario": "Exemplo de Formulário",
     "menu": "Menu",
     "botao": "Botão",
     "botao.proximo": "Próximo",
-    "titulo.formulario": "Exemplo de Formulário",
+    "botao.post": "Enviar",
     "label.menu.inicial": "Menu Inicial",
     "label.nome": "Nome",
-    "label.descricao": "Descrição",
-    "botao.post": "Enviar"
+    "label.descricao": "Descrição"
 }
