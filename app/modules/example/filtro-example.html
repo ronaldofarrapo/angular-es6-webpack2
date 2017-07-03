@@ -1,0 +1,37 @@
+<!-- sessões -->
+<section class="content-header">
+    <h1>
+        <i class="mdi mdi-view-grid"></i>Webpack com Angular 1.x e ES6
+    </h1>
+    <ol class="breadcrumb">
+        <li><a href="#/"> <i class="mdi mdi-magnify"></i>Menu Inicial</a></li>
+        <li class="active"><a href="#">Filtro</a></li>
+    </ol>
+</section>
+
+<section class="content fadeInLeft">
+    <div class="row-form h-100">
+        <div class="col-md-12">
+            <div class="row">
+                <div class="col-md-12 form-group">
+                    <label for="nome">Nome:</label>
+                    <input id="nome" type="text" class="form-control" ng-model="vm.nome" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 form-group">
+                    <label for="assunto">Descrição:</label>
+                    <textarea class="form-control" rows="5" id="assunto" ng-model="vm.assunto"></textarea>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-md-12 form-group">
+                    <a class="btn btn-danger" href="" ng-click="vm.add()"><i class="mdi mdi-eraser"></i>Limpar Filtro</a>
+                    <a class="btn btn-success" href="" ng-click="vm.add()"><i class="mdi mdi-magnify"></i>Buscar</a>
+                    <a class="btn btn-info" href="/cria-processo" ng-click="cria-processo"><i class="mdi mdi-file-document-box"></i>Novo</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

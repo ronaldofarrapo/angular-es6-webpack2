@@ -1,0 +1,13 @@
+{
+    "titulo": "Exemplo de uso de es6 com angular 1.x e webpack 2",
+    "menu": "Menu",
+    "botao": "Botão",
+    "botao.proximo": "Próximo",
+    "titulo.processo": "Processo",
+    "titulo.formulario": "Exemplo de Formulário",
+    "label.menu.inicial": "Menu Inicial",
+    "label.nome": "Nome",
+    "label.descricao": "Descrição",
+    "filtro.processo": "Filtro Processo",
+    "botao.post": "Enviar"
+}

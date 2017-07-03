@@ -1,0 +1,32 @@
+<!-- sessões -->
+<section class="content-header">
+    <h1>
+        <i class="mdi mdi-view-grid"></i>{{'titulo.formulario' | translate}}
+    </h1>
+    <hr>
+</section>
+
+<section class="content fadeInLeft">
+    <div class="row-form h-100">
+        <div class="col-md-12">
+            <div class="row">
+                <div class="col-md-12 form-group">
+                    <label for="nome">{{'label.nome' | translate}}:</label>
+                    <input id="nome" type="text" class="form-control" ng-model="vm.nome" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 form-group">
+                    <label for="assunto">{{'label.descricao' | translate}}:</label>
+                    <textarea class="form-control" rows="5" id="assunto" ng-model="vm.assunto"></textarea>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-md-12 form-group">
+                    <button class="btn btn-success" ng-click="vm.add()"><i class="mdi mdi-arrow-up"></i>{{'botao.post' | translate}}</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
