@@ -9,9 +9,9 @@ npm v4.2.0 +
 
 ### Installing
 
-npm i
-npm run start
- http://localhost:9000
+* npm i
+* npm run start
+* http://localhost:9000
 
 ## Running the tests
 
