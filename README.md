@@ -1,6 +1,6 @@
 # Angular 1.x ES6 e webpack 2
 
-Exemplo de como configurar ambiente para desenvolvimento com Angular1.x ES6 e Webpack 2
+Working with Angular1.x ES6 e Webpack 2
 
 ### Prerequisites
 
