@@ -1,6 +1,6 @@
 # Angular 1.x ES6 e webpack 2
 
-Working with Angular1.x ES6 e Webpack 2
+Using AngularJS with ES6 and Webpack
 
 ### Prerequisites
 
